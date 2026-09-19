@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.2" baseProfile="tiny-ps"
+ xmlns="http://www.w3.org/2000/svg"
+ viewBox="0 0 1200 1200">
+ <title>Luma Beauty</title>
+ <rect width="1200" height="1200" fill="#d9ccde"/>
+ <!-- double circular ring with lower opening -->
+ <path d="M398 836 A360 360 0 1 1 802 836" fill="none" stroke="#582a6d" stroke-width="18"/>
+ <path d="M425 815 A330 330 0 1 1 775 815" fill="none" stroke="#582a6d" stroke-width="18"/>
+ <!-- upper sparkle -->
+ <path d="M718 327 C724 362 735 374 770 382 C735 390 724 402 718 438 C712 402 701 390 666 382 C701 374 712 362 718 327Z" fill="#582a6d"/>
+ <!-- lower sparkle -->
+ <path d="M600 606 C615 711 652 766 764 808 C652 837 615 894 600 1018 C585 894 548 837 436 808 C548 766 585 711 600 606Z" fill="#582a6d"/>
+</svg>
